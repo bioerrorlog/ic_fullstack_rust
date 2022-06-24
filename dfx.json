@@ -10,11 +10,11 @@
         "ic_fullstack_rust"
       ],
       "frontend": {
-        "entrypoint": "src/ic_fullstack_rust_assets/src/index.html"
+        "entrypoint": "src/ic_fullstack_rust_assets/index.html"
       },
       "source": [
         "src/ic_fullstack_rust_assets/assets",
-        "dist/ic_fullstack_rust_assets/"
+        "dist/"
       ],
       "type": "assets"
     }

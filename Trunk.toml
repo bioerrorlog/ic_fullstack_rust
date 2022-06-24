@@ -1,0 +1,3 @@
+[build]
+target = "src/ic_fullstack_rust_assets/index.html"
+dist = "dist"

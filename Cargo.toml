@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "src/ic_fullstack_rust",
+    "src/ic_fullstack_rust_assets",
 ]
